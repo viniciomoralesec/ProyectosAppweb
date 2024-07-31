@@ -4,5 +4,5 @@
 /*
 comentario multilinea
 */
-$numero = 'seis';
+$numero = 6;
 echo $numero;
