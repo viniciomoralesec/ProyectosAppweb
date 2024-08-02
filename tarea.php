@@ -1,6 +1,8 @@
 
 <?php
 
+error_reporting(0);
+
 $Item       = 'Notebook ';
 $Model      = 'Dell 3140';
 $TransDate  = 01/01/2024;
